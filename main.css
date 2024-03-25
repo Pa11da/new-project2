@@ -138,6 +138,10 @@ body {
   background-color: var(--black);
 }
 
+h1 {
+  color: white;  
+}
+
 div:has(h2 + p) {
   display: grid;
   gap: 8px;
